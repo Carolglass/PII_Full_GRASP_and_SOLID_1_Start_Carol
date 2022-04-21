@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "79TMyjXop5+K4aYIbByasM7Vyzy0gNrmNNc8hNPvi273073u7kQpCxT2KjEyVlI6lDECcBZBA9x3DIYMywtDEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cargl\\Desktop\\UCU\\Semestre2\\Prog2\\ProyectosClase\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cargl\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cargl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cargl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
